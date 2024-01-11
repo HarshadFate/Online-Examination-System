@@ -10,6 +10,55 @@ The Online Examination System is a web-based platform designed for conducting on
 - **User Dashboard:** Personalized dashboards for students and instructors to track performance and manage exams.
 - **Responsive Design:** User-friendly interface accessible on various devices.
 
+## Overview 
+
+## Admin Panel:
+The Admin Panel serves as the centralized hub for system administrators, providing access to various management features and controls.
+
+**Admin Profile:**
+Admin Profile refers to the personal information and settings associated with the system administrator's account, facilitating customization and identification.
+
+**Change Password:**
+This feature allows administrators to securely update their login credentials, enhancing system security.
+
+**Courses:**
+Courses represent the educational modules or subjects available within the online examination system.
+
+**Exams:**
+Exams encompass the assessments or evaluations conducted within the system, covering various courses.
+
+**Add Exam:**
+The Add Exam functionality enables administrators to create and incorporate new exams into the system.
+
+**Questions:**
+Questions pertain to the individual queries or problems presented to students during exams.
+
+**Show Questions:**
+Show Questions allows administrators to view and manage the pool of questions available within the system.
+
+**Accounts:**
+Accounts refer to user profiles within the system, including administrators, instructors, and students.
+
+**Show Accounts:**
+The Show Accounts feature enables administrators to review and manage user profiles registered in the system.
+
+**Result:**
+Result denotes the outcome or performance summary of students in exams, providing insights into their achievements.
+
+## Student Panel:
+The Student Panel offers students access to their profiles, exams, and results, providing a user-friendly interface for interaction.
+
+**Student Profile:**
+Student Profile encompasses the personal and academic information associated with a student's account within the system.
+
+**Exam:**
+Exam refers to the assessment or test taken by students as part of their academic evaluation.
+
+**Result:**
+Result displays the performance outcomes and scores achieved by students in their respective exams.
+
+Feel free to explore and contribute to the development of this online examination system. For more information, refer to the detailed documentation provided in the repository.
+
 ## Technologies Used
 
 - **Frontend:** Java 
