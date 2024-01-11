@@ -1,3 +1,20 @@
+The Online Examination System is a web-based platform designed for conducting online exams. It provides a secure and efficient way to manage and administer exams, making the process seamless for both students and instructors.
+
+## Features
+
+- **User Authentication:** Secure user authentication system for students and instructors.
+- **Exam Creation:** Easily create and manage exams with various question types (multiple choice, true/false, etc.).
+- **Grading System:** Automatic grading of exams with the ability for manual review.
+- **User Dashboard:** Personalized dashboards for students and instructors to track performance and manage exams.
+- **Responsive Design:** User-friendly interface accessible on various devices.
+
+## Technologies Used
+
+- **Frontend:** Java 
+- **Backend:** MySQL Database
+- **Report Writer:** Jasper Report Writer
+
+
 ![login](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/cd7f4ce8-4c10-408b-826c-391a92b4922a)
 ![admin panel](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/a4bf7579-6d96-4dcb-be99-53022c4bd807)
 ![Capture](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/dae65dc6-2e31-458d-917c-b29c81a04898)
