@@ -45,7 +45,7 @@ The Show Accounts feature enables administrators to review and manage user profi
 - **Result:**
 Result denotes the outcome or performance summary of students in exams, providing insights into their achievements.
 
-## Student Panel:
+- ## Student Panel:
 The Student Panel offers students access to their profiles, exams, and results, providing a user-friendly interface for interaction.
 
 - **Student Profile:**
