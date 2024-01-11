@@ -1,4 +1,4 @@
-##Online Examination System 
+### Online Examination System 
 
 The Online Examination System is a web-based platform designed for conducting online exams. It provides a secure and efficient way to manage and administer exams, making the process seamless for both students and instructors. This online examination system features a comprehensive set of functionalities including a secure login page, an admin panel with profile management and password change options, course and exam management, question handling, account display, result tracking, and a dedicated student panel with profile management, exam initiation, and result viewing capabilities.
 
