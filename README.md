@@ -10,3 +10,9 @@
 ![Capture2](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/9cab1792-d54c-4143-b42f-b3523eb05796)
 
 ![resule](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/15b79a55-306a-4e84-806a-4b3f26db6fc7)
+
+![student panel](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/38e49f44-b12f-486a-9517-2374a632bb85)
+![Capture3](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/da5e6c12-6232-4add-877a-3f0e243a8ed2)
+![student exam panel](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/c7c31945-d13a-4044-b662-3346495fe2a2)
+![student exam](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/79487272-17b9-4b30-9405-e104adffa9e6)
+![Capture4](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/c93d584c-9adb-45ad-9b27-050b97773a2a)
