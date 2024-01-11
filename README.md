@@ -14,6 +14,7 @@ The Online Examination System is a web-based platform designed for conducting on
 - **Backend:** MySQL Database
 - **Report Writer:** Jasper Report Writer
 
+## Project Screenshots:
 
 ![login](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/cd7f4ce8-4c10-408b-826c-391a92b4922a)
 ![admin panel](https://github.com/HarshadFate/Online-Examination-System/assets/69624970/a4bf7579-6d96-4dcb-be99-53022c4bd807)
